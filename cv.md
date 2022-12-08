@@ -8,7 +8,7 @@
 
 ##About Me
 
-I am 21 years old, living in Odessa and study programing in ONTU.
+I am 21 years old, living in Odessa and study programming in ONTU.
 
 ##Skills
 
