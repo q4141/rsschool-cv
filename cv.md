@@ -1,22 +1,22 @@
-#Vladislav Zhdaniuk
+# Vladislav Zhdaniuk
 
-##Contacts
+## Contacts
 
-*Location: Odessa, Ukraine
-*GitHub: [My profile](https://github.com/q4141)
-*Telegram: @G4141
+* Location: Odessa, Ukraine
+* GitHub: [My profile](https://github.com/q4141)
+* Telegram: @G4141
 
-##About Me
+## About Me
 
 I am 21 years old, living in Odessa and study programming in ONTU.
 
-##Skills
+## Skills
 
-*Java
-*C++
-*Android development
+* Java
+* C++
+* Android development
 
-##Code Example 
+## Code Example 
 
 ```
 function plus(a, b) {
@@ -31,7 +31,7 @@ result = minus(5,2);
 alert(result);
 ```
 
-##Language
+## Language
 
-*Ukrainian - native
-*English - b2
+* Ukrainian - native
+* English - b2
