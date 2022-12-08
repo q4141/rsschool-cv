@@ -1,1 +1,1 @@
-https://q4141.github.io/rsschool-cv/cv
+https://q4141.github.io/rsschool-cv/q4141
